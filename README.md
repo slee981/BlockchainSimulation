@@ -13,16 +13,15 @@
 
 # Quick Use
 1. clone and cd into folder
-2. type...........'python3 BlockchainDemo.py'
+2. type `python3 BlockchainDemo.py`
 
-3. mine first block.. choose '8' from option menu
-4. add account....... choose '1' or '2'
-   a) enter a password for the account
+3. mine first block -> choose '8' from option menu
+4. add account -> choose '1' or '2'
 
-5. bradcast txn...... choose '3' (follow prompts)
-6. view txns......... choose '5' (txn should appear)
-7. mine block........ choose '8'
-8. view txns......... choose '5' (txn should be empty)
+5. bradcast txn -> choose '3' (follow prompts)
+6. view txns -> choose '5' (txn should appear)
+7. mine block -> choose '8'
+8. view txns -> choose '5' (txn should be empty)
 
 # Description
 These files simulate a blockchain. Notably this
