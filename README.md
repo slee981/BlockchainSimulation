@@ -1,7 +1,5 @@
-###############################################
+
 # Contents
-###############################################
-0. README.txt
 1. Account.py
 2. Block.py
 3. Blockchain.py
@@ -13,11 +11,8 @@
 
 9. BlockchainDemo.py
 
-###############################################
 # Quick Use
-###############################################
-0. Unzip folder
-1. cd into folder
+1. clone and cd into folder
 2. type...........'python3 BlockchainDemo.py'
 
 3. mine first block.. choose '8' from option menu
@@ -29,9 +24,7 @@
 7. mine block........ choose '8'
 8. view txns......... choose '5' (txn should be empty)
 
-###############################################
 # Description
-###############################################
 These files simulate a blockchain. Notably this
 demo shows a simplification of some of the
 harder to understand details in order to shed
